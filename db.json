@@ -1,0 +1,30 @@
+{
+  "products": [
+    {
+      "name": "Sản phẩm mới 3",
+      "price": "500",
+      "gallery": [
+        "https://res.cloudinary.com/dfcbxbqe8/image/upload/v1692677767/ECMA/r4chdennlms3locvapzi.jpg"
+      ],
+      "id": 1
+    },
+    {
+      "name": "Sản phẩm mới 4",
+      "price": "400",
+      "gallery": [
+        "https://res.cloudinary.com/dfcbxbqe8/image/upload/v1692677862/ECMA/enwypvqg7wmt6eab0jug.jpg"
+      ],
+      "id": 2
+    },
+    {
+      "name": "sản phẩm 7",
+      "price": "111",
+      "gallery": [
+        "https://res.cloudinary.com/dfcbxbqe8/image/upload/v1692679698/ECMA/mhbyoul0x3xsrtfqsgtf.jpg",
+        "https://res.cloudinary.com/dfcbxbqe8/image/upload/v1692679700/ECMA/jy9zd10hqszvl5xwhvs5.jpg",
+        "https://res.cloudinary.com/dfcbxbqe8/image/upload/v1692679701/ECMA/qt9rmntiitoiffekwqrj.jpg"
+      ],
+      "id": 4
+    }
+  ]
+}
